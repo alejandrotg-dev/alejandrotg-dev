@@ -1,16 +1,30 @@
-## Hi there 👋
+# ¡Hola, soy Alejandro! 👋
 
-<!--
-**alejandrotg-dev/alejandrotg-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tengo 24 años y me apasiona el mundo del desarrollo.  
+Disfruto crear soluciones prácticas con código limpio y eficiente, siempre aprendiendo nuevas tecnologías.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy un desarrollador fullstack con el título de **Desarrollador de Aplicaciones Multiplataforma**.  
+Me apasiona crear soluciones web modernas y escalables, desde el backend robusto hasta interfaces limpias y eficientes en el frontend.
+
+---
+
+## 🔧 Tecnologías que uso con frecuencia
+- JavaScript / TypeScript
+- Node.js / Express
+- PostgreSQL / Sequelize
+- React (Aprendiendo)
+
+---
+
+## 🔭 Actualmente estoy
+
+Trabajando en varios proyectos personales y mejorando mis habilidades en desarrollo multiplataforma.  
+Busco oportunidades para colaborar en equipos dinámicos y aportar valor con código limpio y bien estructurado.
+
+---
+
+📫 ¿Hablamos?
+
+Puedes contactarme por GitHub o LinkedIn. ¡Estoy abierto a colaborar en proyectos interesantes!
