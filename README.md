@@ -1,30 +1,31 @@
-# ¡Hola, soy Alejandro! 👋
+# Hi, I'm Alejandro! 👋
 
-Tengo 24 años y me apasiona el mundo del desarrollo.  
-Disfruto crear soluciones prácticas con código limpio y eficiente, siempre aprendiendo nuevas tecnologías.
+I'm 24 years old and passionate about the world of development.  
+I enjoy creating practical solutions with clean and efficient code, always learning new technologies.
 
-## 🚀 Sobre mí
+## 🚀 About Me
 
-Soy un desarrollador fullstack con el título de **Desarrollador de Aplicaciones Multiplataforma**.  
-Me apasiona crear soluciones web modernas y escalables, desde el backend robusto hasta interfaces limpias y eficientes en el frontend.
-
----
-
-## 🔧 Tecnologías que uso con frecuencia
-- JavaScript / TypeScript
-- Node.js / Express
-- PostgreSQL / Sequelize
-- React (Aprendiendo)
+I'm a fullstack developer with a degree in **Multiplatform Application Development**.  
+I'm passionate about building modern, scalable web solutions—from robust backends to clean and efficient frontend interfaces.
 
 ---
 
-## 🔭 Actualmente estoy
+## 🔧 Technologies I Frequently Use
 
-Trabajando en varios proyectos personales y mejorando mis habilidades en desarrollo multiplataforma.  
-Busco oportunidades para colaborar en equipos dinámicos y aportar valor con código limpio y bien estructurado.
+- JavaScript / TypeScript  
+- Node.js / Express  
+- PostgreSQL / Sequelize  
+- React (Currently learning)
 
 ---
 
-📫 ¿Hablamos?
+## 🔭 I'm Currently
 
-Puedes contactarme por GitHub o LinkedIn. ¡Estoy abierto a colaborar en proyectos interesantes!
+Working on several personal projects and improving my skills in multiplatform development.  
+I'm looking for opportunities to collaborate with dynamic teams and contribute value through clean, well-structured code.
+
+---
+
+📫 Let's Connect!
+
+You can reach me via GitHub or LinkedIn. I'm open to collaborating on interesting projects!
