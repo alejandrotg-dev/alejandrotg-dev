@@ -33,7 +33,7 @@ Actualmente estoy inmerso en varios **proyectos personales** con el objetivo de 
 
 Aquí puedes explorar algunos de mis proyectos más recientes y relevantes:
 
-* **[Mi Plataforma de Reseñas de Películas](https://github.com/alejandrotg-dev/my-movie-review-platform)**: Una aplicación Fullstack para descubrir películas y compartir reseñas.
+
 
 
 ---
